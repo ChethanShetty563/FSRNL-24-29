@@ -1,2 +1,2 @@
-var a = 10;
+var a = 10; // First line of the project
 var b = 5;
